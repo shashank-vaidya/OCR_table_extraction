@@ -18,6 +18,7 @@ To run this project, you will need the following:
 
    ```bash
    git clone https://github.com/shashank-vaidya/OCR_table_extraction.git
+   cd OCR_table_extraction
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
