@@ -7,7 +7,7 @@ This project is designed to extract and process table data from images using OCR
 To run this project, you will need the following:
 
 - Python 3.7+
-- pytesseract
+- paddleOCR
 - OpenCV
 - pandas
 - numpy
