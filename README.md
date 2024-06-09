@@ -39,7 +39,11 @@ To run this project, you will need the following:
 
    Ensure that the images you want to process are in a suitable format for OCR. This project includes preprocessing steps to enhance image quality for better OCR results.
 
-2. **Run the main script:**
+2. **Add image path:**
+
+   Change the image path with your image in main.py
+   
+3. **Run the main script:**
 
    The main script processes the images and extracts table data. To run the script, use the following command:
 
@@ -47,7 +51,7 @@ To run this project, you will need the following:
    python main.py
    ```
 
-3. **Output:**
+4. **Output:**
 
    The extracted table data will be saved in a CSV file. Check the `output.csv` file for the results.
 
